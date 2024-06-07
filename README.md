@@ -1,0 +1,1 @@
+This repository contains the code (but not the data) to reproduce the manuscript : "Genetic assessment of efficacy and safety profiles of coagulation cascade proteins identifies Factors II and XI as actionable anticoagulant targets" published European Heart Journal by Gagnon E, el al.,
